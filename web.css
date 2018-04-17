@@ -1,0 +1,24 @@
+body{font-family:arial,helvetica,serif;
+margin: 30px 20px 30px 20px;	}
+
+
+h1,h2{color:blue;
+	text-align:center;			}
+
+h1{ font-size:35px;
+	font-variant:small-caps;	}
+
+h2{	font-size:25px;				}
+	
+p{  text-align:justify;
+	font-size:20px;
+	text-indent:12mm;			}
+
+	
+p strong{color:red;				}
+
+blockquote.citacao{font-family:courier;
+		 font-style:italic;
+		 font-size:13px;
+		 text-align:justify;
+	     margin-left:70mm;		}
